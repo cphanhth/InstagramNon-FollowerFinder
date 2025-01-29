@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/instagramunfollowers/static/css/main.9e2ced9d.css",
-    "main.js": "/instagramunfollowers/static/js/main.b333ad4e.js",
+    "main.css": "/instagramunfollowers/static/css/main.e4ed91e8.css",
+    "main.js": "/instagramunfollowers/static/js/main.a6b1591e.js",
     "index.html": "/instagramunfollowers/index.html",
-    "main.9e2ced9d.css.map": "/instagramunfollowers/static/css/main.9e2ced9d.css.map",
-    "main.b333ad4e.js.map": "/instagramunfollowers/static/js/main.b333ad4e.js.map"
+    "main.e4ed91e8.css.map": "/instagramunfollowers/static/css/main.e4ed91e8.css.map",
+    "main.a6b1591e.js.map": "/instagramunfollowers/static/js/main.a6b1591e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e2ced9d.css",
-    "static/js/main.b333ad4e.js"
+    "static/css/main.e4ed91e8.css",
+    "static/js/main.a6b1591e.js"
   ]
 }
